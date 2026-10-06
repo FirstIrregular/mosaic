@@ -90,7 +90,7 @@ src/
 ## Installation
 
 ```bash
-git clone https://github.com/Fire-ash/mosaic.git
+git clone https://github.com/FirstIrregular/mosaic.git
 
 cd mosaic
 
@@ -118,6 +118,6 @@ Live Website:
 
 https://mosaic-my822jvwi-fire-ash-9980s-projects.vercel.app/
 GitHub Repository:
-https://github.com/Fire-ash/mosaic
+https://github.com/FirstIrregular/mosaic
 
 ---
